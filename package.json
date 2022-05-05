@@ -1,0 +1,32 @@
+{
+  "name": "use-didi-ge",
+  "version": "0.0.1",
+  "description": "A react hook to use external state ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarneyLYO/use-didi-ge.git"
+  },
+  "keywords": [
+    "hook",
+    "external",
+    "state",
+    "react"
+  ],
+  "author": "BL (barneyliu@hotmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarneyLYO/use-didi-ge/issues"
+  },
+  "homepage": "https://github.com/BarneyLYO/use-didi-ge#readme",
+  "dependencies": {
+    "react": "^18.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.8",
+    "typescript": "^4.6.4"
+  }
+}
